@@ -4,7 +4,11 @@
 
 ## 🌱 Sobre mí
 
-Soy Ingeniero Multimedia y estudiante de Máster en Desarrollo de Aplicaciones Móviles. Un apasionado del desarrollo web y móvil. Estudio en la Universidad de Alicante y he realizado una estancia Erasmus en Fachhochschule Salzburg. Además, soy árbitro de fútbol en la Federación de Fútbol de la Comunidad Valenciana.
+My journey as a developer started with the **Ingeniería Multimedia** degree at **Universidad de Alicante** and an Erasmus stay at **FH Salzburg**. I am currently continuing my studies at the same university with a **Master's in Mobile Application Development**. I am passionate about **web design** and **mobile development**. 
+
+Besides coding, I love nature, sports, and working as a **referee** in the **FFCV** (Football Federation of the Community of Valencia). 
+
+My native language is **Spanish**, but I am fluent in **English** with a **B2 certificate**.
 
 
 ## 🛠️ Tecnologías
