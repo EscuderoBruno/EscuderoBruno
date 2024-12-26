@@ -4,7 +4,7 @@
 
 ## 🌱 Sobre mí
 
-My journey as a developer started with the **Ingeniería Multimedia** degree at **Universidad de Alicante** and an Erasmus stay at **FH Salzburg**. I am currently continuing my studies at the same university with a **Master's in Mobile Application Development**. I am passionate about **web design** and **mobile development**. 
+My journey as a developer started with the **Ingeniería Multimedia** degree at **Universidad de Alicant (UA)e** and an Erasmus stay at **FH Salzburg**. I am currently continuing my studies at UA with a **Master's in Mobile Application Development**. I am passionate about **web design** and **mobile development**. 
 
 Besides coding, I love nature, sports, and working as a **referee** in the **FFCV** (Football Federation of the Community of Valencia). 
 
