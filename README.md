@@ -10,12 +10,17 @@
 
 ## 🛠️ Tecnologías
 
-| Tecnología        | Logo                                |
-|-------------------|-------------------------------------|
-| **Flutter**       | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) |
-| **React Native**  | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge) |
-| **Kotlin**        | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge) |
-| **Swift**         | ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge) |
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)  
+**Flutter**
+
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
+**React Native**
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)  
+**Kotlin**
+
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)  
+**Swift**
 
 ## 🌱 Sobre mí
 
