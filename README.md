@@ -22,6 +22,6 @@ Este repositorio es principalmente personal, pero estoy abierto a sugerencias y 
 
 ## 📬 Contacto
 
-- [LinkedIn](https://linkedin.com/in/tu-perfil)
-- [Email](mailto:tu-correo@example.com)
+- [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/bruno-garcía-escudero-711298188/))
+- [Email](mailto:bruno2412001@gmail.com)
 
