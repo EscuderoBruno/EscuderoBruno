@@ -1,6 +1,4 @@
-## Hello! I'm Bruno Garcia 👋
-
-# 🚀 Mi Repositorio Personal
+# Hello! I'm Bruno Garcia 👋
 
 ¡Bienvenido a mi repositorio personal! Aquí encontrarás una colección de proyectos, experimentos y ejemplos que reflejan mi aprendizaje, experiencia y pasión por el desarrollo de software y multimedia. 
 
