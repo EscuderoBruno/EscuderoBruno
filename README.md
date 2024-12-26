@@ -1,6 +1,6 @@
 # Hello! I'm Bruno Garcia 👋
 
-Im *Multimedia Engineer* and student of *Master's in Mobile Application Development* both at Universidad de Alicante. 
+I'm a Multimedia Engineer and a student of the Master's in Mobile Application Development at the Universidad de Alicante. Here you will find my portfolio and projects showcasing my studies and skills.
 
 ## 🌱 About me
 
