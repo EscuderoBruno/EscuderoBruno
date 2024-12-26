@@ -10,17 +10,13 @@
 
 ## 🛠️ Tecnologías
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)  
-**Flutter**
-
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
-**React Native**
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)  
-**Kotlin**
-
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)  
-**Swift**
+![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg) **Angular**  
+![Kotlin](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png) **Kotlin**  
+![Swift](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg) **Swift**  
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) **JavaScript**  
+![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) **Java**  
+![MySQL](https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg) **MySQL**  
+![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg) **Tailwind CSS**
 
 ## 🌱 Sobre mí
 
