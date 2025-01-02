@@ -17,6 +17,6 @@ My native language is **Spanish**, but I am fluent in **English** with a **Cambr
 
 ## 📬 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/brunoescudero/) - /brunoescudero
+- [LinkedIn](https://www.linkedin.com/in/brunoescudero/) - in/brunoescudero
 - [Email](mailto:bruno2412001@gmail.com) - bruno2412001@gmail.com
 
